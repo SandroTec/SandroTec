@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Alessandro and I'm learning fullstack web-development at Developer Akademie</h2>
+<h2 align="left">Hi 👋
+  My name is Alessandro and I'm learning fullstack web-development at Developer Akademie
+</h2>
 
 ###
 
