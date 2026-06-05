@@ -2,7 +2,7 @@
 <h3 align="center">Junior Fullstack Developer mit Fokus auf skalierbaren Code & interaktive UI/
 UX</h3>
 <p align="center">
-<a href="https://alessandro-bonomo.de" target="_blank"> Portfolio-Webseite</a> │
+<a href="https://alessandro-bonomo.de/portfolio/index.html" target="_blank"> Portfolio-Webseite</a> │
 <a href="mailto:deine-email@beispiel.de"> Kontakt per E-Mail</a>
 </p>
 ---
