@@ -75,13 +75,3 @@ Loading für flüssiges Scrollen.<br>
 </td>
 </tr>
 </table>
----
-### GitHub Activity
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?
-username=SandroTec&show_icons=true&theme=tokyonight&count_private=true" alt="Sandro GitHub
-Stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?
-username=SandroTec&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
-</p>
----
