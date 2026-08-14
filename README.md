@@ -15,7 +15,7 @@ Mein Ansatz: **Strukturiertes Denken, starke Commit-Disziplin und hohe Code-Qual
 
 ---
 ### Tech Stack
-* **Frontend:** HTML5, CSS3 (BEM, Flexbox, Grid), JavaScript (Vanilla ES6+), zukünftig Angular
+* **Frontend:** HTML5, CSS3 (BEM, Flexbox, Grid), JavaScript (Vanilla ES6+), Angular
 & TypeScript
 * **Architektur & Logik:** OOP (Objektorientierte Programmierung), REST APIs, Asynchrone
 Datenverarbeitung
