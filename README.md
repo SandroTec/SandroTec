@@ -53,18 +53,7 @@ Canvas.<br>
 </tr>
 <tr>
 <td valign="top">
-<strong> YT AI Thumbnail & Title Tester</strong><br>
 
-Eine produktiv genutzte Chrome Extension zur datengestützten Optimierung von YouTube-
-Metadaten direkt im Creator Studio.<br><br>
-
-• <strong>Highlights:</strong> DOM-Injektion, asynchroner Austausch von UI-Elementen vor
-Veröffentlichung.<br>
-• <strong>Tech-Specs:</strong> Manifest V3, Content- & Background-Scripts, Chrome API
-Isolation.<br>
-• <em>Fokus: Nahtlose Browser-Integration & asynchrone Logik.&em>
-</td>
-<td valign="top">
 <strong> Pokédex – API-driven Web App</strong><br>
 Ein performantes, durchsuchbares Interface basierend auf der RESTful PokéAPI mit
 intelligentem Caching.<br><br>
