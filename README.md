@@ -3,7 +3,7 @@
 UX</h3>
 <p align="center">
 <a href="https://alessandro-bonomo.de/Portfolio/index.html" target="_blank"> Portfolio-Webseite</a> │
-<a href="mailto:deine-email@beispiel.de"> Kontakt per E-Mail</a>
+<a href="mailto:bonomo.sandro@gmx.de"> Kontakt per E-Mail</a>
 </p>
 ---
 ### Über mich
